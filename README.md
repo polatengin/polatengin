@@ -54,3 +54,14 @@ My name is Engin Polat, I'm based in Turkey, beautiful city Istanbul.
 You can find and get touch with me on these accounts!
 
 [<img src="https://github.com/github/explore/blob/master/topics/github-api/github-api.png?raw=true" height="32" />](https://github.com/polatengin)
+
+## Ask me about 💬
+
+I'd like to get in touch with the following topics
+
+- Designing
+  - Resilient Systems
+  - Fault Tolerant Systems
+  - High Performant Backends
+
+- DevOps related any topic
