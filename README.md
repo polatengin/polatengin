@@ -2,6 +2,8 @@
 
 My name is Engin Polat, I'm based in Turkey, beautiful city Istanbul.
 
+I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working.
+
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fpolatengin.polatengin%2Freadme)
 
 - 🙋‍♂️ Pronouns: He/him
