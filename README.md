@@ -30,7 +30,9 @@ I'm working as a Software Engineer in [Microsoft](https://github.com/microsoft)
 
 You can find and get touch with me on these accounts!
 
-[<img src="https://github.com/github/explore/blob/master/topics/github-api/github-api.png?raw=true" height="32" />](https://github.com/polatengin)
+[![Linkedin Badge](https://img.shields.io/badge/polatengin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/polatengin/)
+
+[![Twitter Badge](https://img.shields.io/badge/polatengin-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/polatengin/)
 
 ## Ask me about 💬
 
