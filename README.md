@@ -24,7 +24,7 @@ I'm working as a Software Engineer in [Microsoft](https://github.com/microsoft)
 
 ## Learning 📚
 
-<img src="https://github.com/github/explore/blob/master/topics/deno/deno.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/deno/deno.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" />
 
 ## How to reach me 📫
 
