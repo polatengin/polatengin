@@ -12,7 +12,7 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
 
 ## 💼 Job
 
-I'm working as a Software Engineer in [Microsoft](https://github.com/microsoft)
+I'm working as a Senior Software Engineer in [Microsoft](https://github.com/microsoft)
 
 ## 🔭 I'm currently working on
 
