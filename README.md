@@ -18,7 +18,9 @@ I'm working as a Senior Software Engineer in [Microsoft](https://github.com/micr
 
 [Retrospective Extension](https://github.com/microsoft/vsts-extension-retrospectives) for Azure DevOps (_you can find it on [Azure DevOps Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives)_)
 
-Improving Azure support of [Terratest](https://github.com/gruntwork-io/terratest)
+Improving [Azure](https://azure.com) support for [Terratest](https://github.com/gruntwork-io/terratest)
+
+Sharing my learnings and experience on [https://devopstips.net](https://devopstips.net)
 
 ## 🧠 Know / Using
 
