@@ -32,7 +32,7 @@ You can find and get in touch with me on below accounts!
 
 ## 💪 I'm good at
 
-- Software Developing
+- Software Development
 - Quality code
 - Learning new paradigms
 - Staying positive
