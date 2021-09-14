@@ -30,6 +30,21 @@ You can find and get in touch with me on below accounts!
 
 [![Twitter Badge](https://img.shields.io/badge/polatengin-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/polatengin/)
 
+## 💪 I'm good at
+
+- Software Developing
+- Quality code
+- Learning new paradigms
+- Staying positive
+- Jokes (at least I think so...)
+
+## 👎 I'm not good at
+
+- Social Media
+- Instant decisions
+- Taking big risks
+- Working under pressure
+
 ## 💬 Ask me about
 
 I'd like to get in touch with the following topics
