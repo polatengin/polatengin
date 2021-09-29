@@ -14,6 +14,14 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
 
 I'm working as a Senior Software Engineer in [Microsoft](https://github.com/microsoft)
 
+### Why I work at Microsoft
+
+Microsoft has amazing opportunities and amazing teams! I feel myself super lucky that I'm working with one of the bests!..
+
+### What is my job in Microsoft
+
+I'm working with the biggest enterprises and communities all around the world, trying to solve their most sophisticated problems with scalable and future proof solutions
+
 ## 🔭 I'm currently working on
 
 [Retrospective Extension](https://github.com/microsoft/vsts-extension-retrospectives) for Azure DevOps (_you can find it on [Azure DevOps Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives)_)
