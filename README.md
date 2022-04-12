@@ -28,6 +28,8 @@ I'm working with the biggest enterprises and communities all around the world, t
 
 Improving [Azure](https://azure.com) support for [Terratest](https://github.com/gruntwork-io/terratest)
 
+New version of [Symphony](https://github.com/microsoft/symphony)
+
 Sharing my learnings and experience on [https://devopstips.net](https://devopstips.net)
 
 ## 📫 How to reach me
