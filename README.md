@@ -30,7 +30,7 @@ Improving [Azure](https://azure.com) support for [Terratest](https://github.com/
 
 New version of [Symphony](https://github.com/microsoft/symphony)
 
-Improving [Amplify](https://github.com/microsoft/amplify) to extend Bash commands
+[Amplify](https://github.com/microsoft/amplify) project to extend Bash commands
 
 Contributing to [Bicep](https://github.com/azure/bicep) project
 
