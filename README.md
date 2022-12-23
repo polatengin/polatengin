@@ -14,7 +14,7 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
 
 I'm working as a Senior Software Engineer in [Microsoft](https://github.com/microsoft)
 
-### Why I work at Microsoft
+### Why do I work for Microsoft
 
 Microsoft has amazing opportunities and amazing teams! I feel myself super lucky that I'm working with one of the bests teams!..
 
