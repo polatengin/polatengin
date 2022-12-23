@@ -16,7 +16,13 @@ I'm working as a Senior Software Engineer in [Microsoft](https://github.com/micr
 
 ### Why do I work for Microsoft
 
-Microsoft has amazing opportunities and amazing teams! I feel myself super lucky that I'm working with one of the bests teams!..
+I work for Microsoft because it is a great place to work where I can use my skills and talents to make a difference. Microsoft offers excellent job satisfaction, a chance to work on cutting-edge technology, and a chance to make a real difference in the world.
+
+I enjoy working on projects that are important to the company and that have a real impact on the world. I feel that my work is meaningful and that I am making a contribution to the company.
+
+I like the constantly learning new things and working on new projects.
+
+Microsoft is also a great place to work because of the people. The people at Microsoft are some of the smartest, most talented, and most driven people I have ever met. I feel fortunate to be able to work with such talented and passionate people.
 
 ### What is my job in Microsoft
 
