@@ -26,11 +26,13 @@ Microsoft is also a great place to work because of the people. The people at Mic
 
 ### What is my job in Microsoft
 
-I'm working with the biggest enterprises and communities all around the world, trying to solve their most sophisticated problems with scalable and future proof solutions
+I'm working with the biggest enterprises and communities all around the world, trying to solve their most sophisticated problems with scalable and future-proof solutions 👍
 
 ## 🔭 I'm currently working on
 
 [Retrospective Extension](https://github.com/microsoft/vsts-extension-retrospectives) for Azure DevOps (_you can find it on [Azure DevOps Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives)_)
+
+[Benchpress](https://github.com/azure/benchpress)
 
 Improving [Azure](https://azure.com) support for [Terratest](https://github.com/gruntwork-io/terratest)
 
