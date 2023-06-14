@@ -8,8 +8,6 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
 
 - 🙋‍♂️ Pronouns: He/him
 
-![Engin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=polatengin&show_icons=true)
-
 ## 💼 Job
 
 I'm working as a Senior Software Engineer in [Microsoft](https://github.com/microsoft)
