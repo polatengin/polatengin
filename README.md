@@ -32,13 +32,11 @@ I'm working with the biggest enterprises and communities all around the world, t
 
 Improving [Azure](https://azure.com) support for [Terratest](https://github.com/gruntwork-io/terratest)
 
-New version of [Symphony](https://github.com/microsoft/symphony)
+Contributing to [Symphony](https://github.com/microsoft/symphony) project
 
 [Amplify](https://github.com/microsoft/amplify) project to extend Bash commands
 
 Contributing to [Bicep](https://github.com/azure/bicep) project
-
-Sharing my learnings and experience on [https://devopstips.net](https://devopstips.net)
 
 ## 📫 How to reach me
 
