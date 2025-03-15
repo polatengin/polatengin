@@ -26,17 +26,12 @@ I'm working with the biggest enterprises and communities all around the world, t
 
 ## 🔭 I'm currently working on
 
-[Retrospective Extension](https://github.com/microsoft/vsts-extension-retrospectives) for Azure DevOps (_you can find it on [Azure DevOps Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives)_)
-
-[Benchpress](https://github.com/azure/benchpress)
-
-Improving [Azure](https://azure.com) support for [Terratest](https://github.com/gruntwork-io/terratest)
-
-Contributing to [Symphony](https://github.com/microsoft/symphony) project
-
-[Amplify](https://github.com/microsoft/amplify) project to extend Bash commands
-
-Contributing to [Bicep](https://github.com/azure/bicep) project
+- [Retrospective Extension](https://github.com/microsoft/vsts-extension-retrospectives) – Available on the [Azure DevOps Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives).
+- [Benchpress](https://github.com/azure/benchpress) – Testing framework for Azure Deployment tools, such as [Bicep](https://github.com/azure/bicep).
+- Enhancing [Azure](https://azure.com) support in [Terratest](https://github.com/gruntwork-io/terratest).
+- Contributing to the [Symphony](https://github.com/microsoft/symphony) project.
+- [Amplify](https://github.com/microsoft/amplify) project – Extending bash commands.
+- [Bicep](https://github.com/azure/bicep) contributions – Helping improve Azure's infrastructure-as-code tooling.
 
 ## 📫 How to reach me
 
