@@ -32,6 +32,7 @@ I'm working with the biggest enterprises and communities all around the world, t
 - Contributing to the [Symphony](https://github.com/microsoft/symphony) project.
 - [Amplify](https://github.com/microsoft/amplify) project – Extending bash commands.
 - [Bicep](https://github.com/azure/bicep) contributions – Helping improve Azure's infrastructure-as-code tooling.
+- [Power Platform Terraform Provider](https://github.com/microsoft/terraform-provider-power-platform)
 
 ## 📫 How to reach me
 
