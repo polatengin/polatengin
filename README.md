@@ -1,10 +1,8 @@
 # 👋 Hi there
 
-My name is Engin Polat, I'm based in Seattle area, beautiful city Sammamish 🌅
+My name is Engin Polat (pronouns, he/him 🙋‍♂️), I'm based in Seattle area, beautiful city Sammamish 🌅
 
 I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working.
-
-- 🙋‍♂️ Pronouns: He/him
 
 ## 💼 Job
 
