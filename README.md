@@ -6,7 +6,7 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
 
 ## 💼 Job
 
-I'm working as a Senior Software Engineer in [Microsoft](https://github.com/microsoft)
+I'm a Senior Software Engineer in [Microsoft](https://github.com/microsoft) who loves open source. I actively contribute to projects that make cloud development smoother for everyone.
 
 ### Why do I work for Microsoft
 
@@ -24,13 +24,13 @@ I'm working with the biggest enterprises and communities all around the world, t
 
 ## 🔭 I'm currently working on
 
-- [Retrospective Extension](https://github.com/microsoft/vsts-extension-retrospectives) – Available on the [Azure DevOps Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives).
-- [Benchpress](https://github.com/azure/benchpress) – Testing framework for Azure Deployment tools, such as [Bicep](https://github.com/azure/bicep).
-- Enhancing [Azure](https://azure.com) support in [Terratest](https://github.com/gruntwork-io/terratest).
-- Contributing to the [Symphony](https://github.com/microsoft/symphony) project.
-- [Amplify](https://github.com/microsoft/amplify) project – Extending bash commands.
-- [Bicep](https://github.com/azure/bicep) contributions – Helping improve Azure's infrastructure-as-code tooling.
-- [Power Platform Terraform Provider](https://github.com/microsoft/terraform-provider-power-platform)
+[Bicep](https://github.com/azure/bicep): Contributor to Microsoft's Azure IaC language Bicep (written in C#) – helping improve the tooling that deploys Azure resources declaratively. (Basically, making Azure infrastructure-as-code easier 💪)
+
+[Power Platform Terraform Provider](https://github.com/microsoft/terraform-provider-power-platform): Co-developer of the Power Platform Terraform Provider (in Go), bringing Infrastructure-as-Code to Power Platform services. It's in preview, but we're automating _ALL_ the things in the cloud.
+
+[Retrospective Extension](https://github.com/microsoft/vsts-extension-retrospectives): Maintainer of the Retrospectives extension for Azure DevOps which is available on the [Azure DevOps Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives) (TypeScript/Node) – a plugin used by thousands of teams to run better sprint retrospectives (84k+ installs and counting! 🚀)
+
+Skills: Fluent in C#, TypeScript, and Go – I enjoy switching between building robust backends, slick web apps, and cloud automation scripts. Also experienced in designing resilient, high-performance systems (ask me about keeping services up 24/7 😊)
 
 ## 📫 How to reach me
 
