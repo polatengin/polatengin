@@ -6,7 +6,7 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
 
 ## 💼 Job
 
-I'm a Senior Software Engineer in [Microsoft](https://github.com/microsoft) who loves open source. I actively contribute to projects that make cloud development smoother for everyone.
+I'm currently working at my dream job as a Senior Software Engineer in [Microsoft](https://github.com/microsoft). I actively contribute to projects that make cloud development smoother for everyone.
 
 ### Why do I work for Microsoft
 
